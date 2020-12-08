@@ -1,0 +1,24 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "The weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuser1975/weatherapp.git"
+  },
+  "author": "Tomasz Fus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fuser1975/weatherapp/issues"
+  },
+  "homepage": "https://github.com/fuser1975/weatherapp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.1.0"
+  }
+}
